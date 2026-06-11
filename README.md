@@ -1,11 +1,5 @@
-# เจาะสถิติ Google 2026: จุดเปลี่ยนสู่โลก AI
+# เจาะสถิติ Google 2026
 
-![Google 2026 Summary](cover.png)
+![สรุป Google 2026](สถิติเทคโนโลยีโลก_2026.png)
 
-**สรุปในภาพเดียว:**
-- Alphabet Q1/2026: $109B (+22%), Cloud +63%
-- AI Chatbot: ChatGPT 54.7% | Gemini 33% (โต +104%) | Claude 8.2%
-- Search: Google 89.85% | Zero-click 68%
-- ยุคใหม่: จาก SEO สู่ AEO (Answer Engine Optimization)
-
-> รายงานเต็ม 12 หน้า อยู่ในไฟล์ด้านบน
+> รายได้ Alphabet Q1/2026: 1.09 แสนล้าน$ (+22%) | Gemini โต +104% | Google Search 89.85% | Zero-click 68%
